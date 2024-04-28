@@ -1,2 +1,1 @@
-# website
-Basic website of my profile.
+# Basic page of my profile.
